@@ -1,0 +1,9 @@
+Comando,NomeCat,IDProduto,CodProd,NomeProd,Peso,Descricao,DescrLonga,DescrURL,URLTarget,Estoque,EstoqueMinimo,Disponivel,ICMS,Custo,Preco,PrecoProm,PrecoB2B,PrecoB2BProm,DataPromInicio,DataPromFim,Lancamento,EmDestaque,ImagemProd,ImagemDet,ImagemAmp,Adicional1,Adicional2,Adicional3,AdicionalD1,AdicionalD2,AdicionalD3,Cores,OrdemProd,IDProdutoPai,RamoProd,MaisProd,DataVencimento,DiasAvisoVencimento,DiasReposicao,IDParceiroProd,DescrHTM,MetaKeywordsProd,MaxParcelasProd,XMLParcelasProd,CodBarrasProd,Embalavel,IsProdutoGrande,LarguraProd,AlturaProd,ProfundidadeProd,CodVideo,ProdMPN,TitleProd,URLProd,VendaConjunta,MetaDescriptionProd,IDsFiltroItem
+A,Macacão Samu,5284045,MAC-SAMU,,1.5,,,,False,100,5,True,0,0,439,0,0,0,,,False,False,,,,46318,,,,,,12542,0,1548000,,,,,,,,,,,,True,False,,,,,,,,,,
+A,Macacão Samu,5285194,MAC-SAMU,,1.5,,,,False,100,5,True,0,0,439,0,0,0,,,False,False,,,,46319,,,,,,12542,0,1548000,,,,,,,,,,,,True,False,,,,,,,,,,
+A,Macacão Samu,5285209,MAC-SAMU,,1.5,,,,False,100,5,True,0,0,439,0,0,0,,,False,False,,,,46320,,,,,,12542,0,1548000,,,,,,,,,,,,True,False,,,,,,,,,,
+I,Macacão Samu,,MAC-SAMU,,1.5,,,,False,100,5,True,0,0,439,0,0,0,,,False,False,,,,46321,,,,,,12542,0,1548000,,,,,,,,,,,,True,False,,,,,,,,,,
+I,Macacão Samu,,MAC-SAMU,,1.5,,,,False,100,5,True,0,0,439,0,0,0,,,False,False,,,,46322,,,,,,12542,0,1548000,,,,,,,,,,,,True,False,,,,,,,,,,
+I,Macacão Samu,,MAC-SAMU,,1.5,,,,False,100,5,True,0,0,439,0,0,0,,,False,False,,,,46323,,,,,,12542,0,1548000,,,,,,,,,,,,True,False,,,,,,,,,,
+I,Macacão Samu,,MAC-SAMU,,1.5,,,,False,100,5,True,0,0,439,0,0,0,,,False,False,,,,46324,,,,,,12542,0,1548000,,,,,,,,,,,,True,False,,,,,,,,,,
+I,Macacão Samu,,MAC-SAMU,,1.5,,,,False,100,5,True,0,0,439,0,0,0,,,False,False,,,,46325,,,,,,12542,0,1548000,,,,,,,,,,,,True,False,,,,,,,,,,
