@@ -1,0 +1,2 @@
+Comando,NomeCat,IDProduto,CodProd,NomeProd,Peso,Estoque,EstoqueMinimo,Disponivel,Adicional1,Cores,IDProdutoPai
+"A","Jaqueta",1682750,"JAQ-FJ45","Jaqueta FJ 45",0.8,31,1,True,"46318,46319,46320,46321,46322,46323,46324,46325","10958,10959,11127",
